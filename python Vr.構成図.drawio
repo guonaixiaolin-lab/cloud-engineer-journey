@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="lNoFrAJLeZoiXW6Wt7cH">
+    <mxGraphModel dx="1022" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;python&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="180" as="sourcePoint" />
+            <mxPoint x="360" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-4" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="110" as="sourcePoint" />
+            <mxPoint x="440" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-7" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;b&gt;HTTP/CSS/javaScript&lt;/b&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-8" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;b&gt;Nginx&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="330" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="590" as="sourcePoint" />
+            <mxPoint x="360" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="540" as="sourcePoint" />
+            <mxPoint x="440" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="960" as="sourcePoint" />
+            <mxPoint x="360" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-25" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="330" width="325" x="280" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-29" connectable="0" parent="ZtdGv56GYIo5A9ZHdDRu-25" style="group" value="" vertex="1">
+          <mxGeometry height="295" width="325" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-16" parent="ZtdGv56GYIo5A9ZHdDRu-29" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-17" parent="ZtdGv56GYIo5A9ZHdDRu-29" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="160" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-19" parent="ZtdGv56GYIo5A9ZHdDRu-29" style="ellipse;whiteSpace=wrap;html=1;" value="ワーカー" vertex="1">
+          <mxGeometry height="40" width="90" x="75" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-18" parent="ZtdGv56GYIo5A9ZHdDRu-29" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="master&lt;div&gt;プロセス&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="80" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-33" parent="ZtdGv56GYIo5A9ZHdDRu-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="135" width="410" x="-85" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-15" parent="ZtdGv56GYIo5A9ZHdDRu-25" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" value="&lt;b&gt;Gunicorn&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="80" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZtdGv56GYIo5A9ZHdDRu-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="①Nginxインストール&lt;div&gt;sudo apt uodate&amp;nbsp;&lt;div&gt;sudo apt install nginx -y&lt;/div&gt;&lt;div&gt;②Nginx設定&lt;/div&gt;&lt;div&gt;sudo nano /etc/nginx/sites-available/myapp&lt;/div&gt;&lt;div&gt;server{listen 80;&lt;/div&gt;&lt;div&gt;local / { proxy-pass http:/&lt;u&gt;/IPアド:5000;()&lt;/u&gt;&lt;/div&gt;&lt;div&gt;proxy-set-header Host $host;&lt;/div&gt;&lt;div&gt;proxy-set-header X-Real-IP 4remote-addr;}&lt;/div&gt;&lt;div&gt;③有効化&lt;/div&gt;&lt;div&gt;sudo ln -s /etc/nginx/sites-avairable/my app&lt;/div&gt;&lt;div&gt;sudo nginx -t&lt;/div&gt;&lt;div&gt;sudo systemctl restart nginx&lt;/div&gt;&lt;div&gt;⑥セキュリティグループがポート80を開き、5000は閉じられているか確認&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;⓻ブラウザ上で確認&lt;/div&gt;&lt;div&gt;http://&lt;u&gt;IPアド&lt;/u&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="580" x="110" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
